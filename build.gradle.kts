@@ -68,7 +68,7 @@ dependencies {
     testFixturesImplementation(gradleTestKit())
     testFixturesImplementation(libs.kotlinTest)
     testFixturesImplementation(libs.kotlinTestJunit)
-    testFixturesImplementation(libs.annotations)
+//     testFixturesImplementation(libs.annotations)
 }
 
 kotlin {
